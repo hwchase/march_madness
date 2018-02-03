@@ -1,7 +1,7 @@
 # march_madness
 
 Done:
- - Stats for each team (i.e. offensive rebounding ability for year 2015)
+ - Stats for each team (i.e. offensive rebounding ability for year 2015), saved to all_stats.mp
  
  Potential to-dos:
   - Elo/Glicko/Massey/Colley ratings
@@ -16,3 +16,4 @@ Done:
    - Data:
      - Preseason rankings
      - Location of tournament games/proximity to teams involved
+     - Player specific data?
